@@ -1,6 +1,9 @@
 # dynamoDB-kafka
   <img src="https://github.com/atifmerghad/atifmerghad/raw/master/Badges/dev/services/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">   <img src="https://github.com/atifmerghad/atifmerghad/raw/master/Badges/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
 
+<br>
+
+ <img src="https://github.com/atifmerghad/dynamoDB-kafka/blob/master/pipeline.png" alt="Pipeline" style="vertical-align:top; margin:4px">  
 
 This is a demo Lambda function that produces events to a Kafka topic, notifying consumers about new records in DynamoDB.
 
